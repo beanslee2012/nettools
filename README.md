@@ -9,3 +9,7 @@ network_switch.bat  WLAN
 
 开关电脑热点：
 hotspot_switch_.bat
+
+
+禁用windows全局代理
+disable_proxy.ps1
