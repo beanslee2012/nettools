@@ -1,1 +1,1 @@
-powershell.exe -command "& 'start_hotspot.ps1' 
+powershell.exe -command "& 'start_hotspot.ps1'
