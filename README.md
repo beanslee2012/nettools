@@ -16,3 +16,6 @@ disable_proxy.ps1
 
 4、启用windows全局代理
 .\enable_proxy.ps1 "ip:port"
+
+5.保持ip长链接状态（采用1分钟ping一次目标地址的方式）
+keep_ip_link.bat   将脚本中ip地址换为实际Ip即可
